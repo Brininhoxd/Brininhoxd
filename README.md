@@ -43,9 +43,15 @@
   <img height="178em" src="https://github-readme-stats.vercel.app/api?username=Brininhoxd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brininhoxd&layout=compact&langs_count=16&theme=dark"/>
 <div>
+ 
+ 
+<p align="center">
+  <kbd>
+   <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" />
+  <kbd/>
+</p>
 
-![](http://i.imgur.com/OUkLi.gif)
-
+ 
 <div> 
  
   <a href ="mailto: brunoc.franchini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
