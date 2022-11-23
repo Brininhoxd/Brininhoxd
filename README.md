@@ -5,7 +5,7 @@
 - 😊 Pronomes: Ele/dele
 - 🎓 &nbsp; Cursando **Analise e Desenvolvimento de Sistemas** na <a href="https://www.unip.br/">Unip</a>.
 - 💼 &nbsp; Trabalhando como **Programador Jr** na <a href="https://shx.com.br/">SHX</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Angular**.
+- 🌱 &nbsp; Aprendendo mais sobre **Angular** e **Java**!
 
 <h3> ⌨️ &nbsp;Minhas Skills </h3>
 
