@@ -4,7 +4,7 @@
 
 - 😊 Pronomes: Ele/dele
 - 🎓 &nbsp; Cursando **Analise e Desenvolvimento de Sistemas** na <a href="https://www.unip.br/">Unip</a>.
-- 💼 &nbsp; Trabalhando como **Programador Jr** na <a href="https://www.jnmoura.com.br/pt-br/">JN Moura Sistemas de Gestão</a>
+- 💼 &nbsp; Trabalhando como **Programador Jr** na <a href="https://shx.com.br/">SHX</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Angular**.
 
 <h3> ⌨️ &nbsp;Minhas Skills </h3>
@@ -16,10 +16,14 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=for-the-badge&logo=Angular)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-333333?style=for-the-badge&logo=visual-studio&logoColor=9d4edd)
+![Java](https://img.shields.io/badge/-Java-333333?&style=for-the-badge&logo=Java&logoColor=9d4edd)
+![Spring](https://img.shields.io/badge/Spring-333333?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=for-the-badge&logo=microsoftsqlserver)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Utilidades**
 
@@ -34,6 +38,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=for-the-badge&logo=visual-studio&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
 
 <br/>
