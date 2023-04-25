@@ -18,7 +18,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=for-the-badge&logo=Angular)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-333333?style=for-the-badge&logo=visual-studio&logoColor=9d4edd)
-![Java](https://img.shields.io/badge/-Java-333333?&style=for-the-badge&logo=Java&logoColor=9d4edd)
+![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java)
 ![Spring](https://img.shields.io/badge/Spring-333333?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=for-the-badge&logo=microsoftsqlserver)
@@ -28,6 +28,8 @@
 **Utilidades**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=for-the-badge&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
+![Swagger](https://img.shields.io/badge/-Swagger-333333?style=for-the-badge&logo=swagger)
 
 **DevOps**
 
